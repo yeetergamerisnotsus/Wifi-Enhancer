@@ -53,3 +53,7 @@ Installation
 2. Next right click the file then press Extract all...
 
 3. Then click extract.
+
+4. When you have finished that open the file then run "Wifi Enhancer 1.8" as administrator.
+
+5. Enjoy Your upgraded and faster wifi for free
