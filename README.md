@@ -45,3 +45,11 @@ What Our Wi-Fi Enhancer Can Do for You:
 20. Sleek Design: Our enhancer boasts a modern and compact design that blends seamlessly with any decor.
 
 Upgrade your online experience today with our Wi-Fi enhancer, and enjoy speeds of up to 200 Mbps along with a host of advanced features. Say goodbye to buffering, lag, and slow downloads, and say hello to a faster, more reliable Wi-Fi connection!
+
+Installation 
+
+1. To install click the green button that says code then press download zip.
+
+2. Next right click the file then press Extract all...
+
+3. Then click extract.
